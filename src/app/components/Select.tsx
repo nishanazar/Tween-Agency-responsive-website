@@ -8,13 +8,13 @@ const Select = () => {
     <h3 className="text-[35px] font-bold text-center py-[50px]">Selected Projects</h3>
     <div className="md:flex justify-center md:gap-4">
     <div>
-    <Image className="transition duration-500 transform hover:scale-105 ml-1 md:m-0 " src={"/burger.jpg"} alt="" height={250} width={350} />
+    <Image className="transition duration-500 transform hover:scale-105 ml-5 md:m-0 " src={"/burger.jpg"} alt="" height={250} width={350} />
     <div className="relative bottom-[130px] left-9">
     <Description paragraphe={"Art Direction"} heading={"Simple Burger"}/>
     </div>
     </div>
     <div>
-    <Image className="transition duration-500 transform hover:scale-105 ml-1 md:m-0  "src={"/data.jpg"} alt="" height={140} width={350} />
+    <Image className="transition duration-500 transform hover:scale-105 ml-4 md:m-0  "src={"/data.jpg"} alt="" height={140} width={350} />
     <div className="relative bottom-[130px] left-9">
     <Description paragraphe={"Web Development"} heading={"Data Science"}/>
     </div>
