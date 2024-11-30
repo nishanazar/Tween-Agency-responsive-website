@@ -32,7 +32,7 @@ const Chat = () => {
     <br />
     <input type="text" className="h-[170px] lg:w-[715px] w-[350px] focus:outline-none  border-gray-300  mt-3 border-[1px] hover:ring ring-blue-300 rounded-md"/></div>
    </div>
-   <button className="font-semibold bg-primary mt-4 py-3 text-center rounded-lg md:w-[715] w-[350px] text-white hover:bg-black">Submit</button>
+   <button className="font-semibold bg-primary mt-4 py-3 text-center rounded-lg md:w-[715px] w-[350px] text-white hover:bg-black">Submit</button>
    </div>
     </div>
   )
